@@ -1,0 +1,16 @@
+#poster-img {
+    background-color: black;
+    height: 100%;
+    width: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+#player {
+    height: 56.25vw;
+    width: 177.77777778vh;
+    min-height: 100%;
+    min-width: 100%;
+    transform: translateY(40px);
+}
